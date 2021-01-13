@@ -26,7 +26,7 @@ Citizenship cannot be removed from any citizen without their consent. No coercio
 
 ##### Callable Citizen
 
-A callable citizen is a citizen who has reach 16 years of age. callable citizens have both an inalienable right and a legally enforceable obligation to participate in mandatory acts of political participation, including but not limited to all elections and all citizen juries. This right and obligation cannot be removed for any reason. Only persons who are deemed medically incapable meeting the obligations of participation may be excused. The determination of medical incapacity must be made separately for each act of political participation, by different qualified medical professionals in each case.
+A callable citizen is a citizen who has reach 16 years of age. callable citizens have both an inalienable right and a legally enforceable obligation to participate in mandatory acts of political participation, including but not limited to all elections and citizen juries for which they are selected. This right and obligation cannot be removed for any reason. Only persons who are deemed medically incapable meeting the obligations of participation may be excused. The determination of medical incapacity must be made separately for each act of political participation, by different qualified medical professionals in each case.
 
 #### Resident
 
