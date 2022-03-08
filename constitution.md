@@ -8,7 +8,7 @@ Constitution
 ## The layers of the political system
 <table>
   <tr><th colspan=2> The Constitution </th></tr>
-  <tr><td colspan=2>The structures and mechanisms by which a free people exert political control over all operations of government</td></tr>
+  <tr><td colspan=2>The structures and processes by which a free people exert political control over all operations of government</td></tr>
   <tr><th colspan=2>Charter of Basic Rights and Duties</th></td>
   <tr><td colspan=2>These are the rights and obligations of the state to people, people to the state, and people to each other written as a set of principles without implementation details. These are distinct from ordinary laws in being harder to change (requiring higher thresholds) but also not including budgets or implementation details. Such details are left to ordinary laws.</td></tr>
   <tr><th colspan=2>Ordinary Laws</th></tr>
